@@ -6,7 +6,7 @@ A comprehensive collection of CyberSecurity PDFs. Inside you will find Guides, R
 ---
 
 ### Credits
-- Credits to all the PDF creatrors.
+- Credits to all the PDF creators.
 - Cyber-AlbSecOP
 
 ### Keywords
