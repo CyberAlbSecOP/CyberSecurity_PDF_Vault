@@ -4,8 +4,8 @@
 A comprehensive collection of CyberSecurity PDFs. Inside you will find Guides, Research Papers, Education, Information Security, Network Security, Cryptography, Malware Analysis, Penetration Testing, Ethical Hacking, Data Protection, Privacy, Threat Intelligence, Incident Response, Digital Forensics.
 
 ## Mega Link
-[PDFs](https://mega.nz/folder/vjgxkILB#jKYqtA04RC0oX9r9xrqDiw)
-[Infographics](https://mega.nz/folder/OzQhXYjY#UnAhMdR_rBIfFNq6HMVOoQ)
+- [📕 | PDFs](https://mega.nz/folder/vjgxkILB#jKYqtA04RC0oX9r9xrqDiw)
+- [🖼️ | Infographics](https://mega.nz/folder/OzQhXYjY#UnAhMdR_rBIfFNq6HMVOoQ)
 
 ---
 
