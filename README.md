@@ -36,7 +36,7 @@ Explore the following categories of resources:
 
 ## 🙌 Credits
 
-A huge thank you to all the creators who have contributed to these PDFs. Special acknowledgment goes to **Cyber-AlbSecOP** for curating and maintaining this collection.
+A huge thank you to all the creators who have contributed to these PDFs.
 
 ---
 
